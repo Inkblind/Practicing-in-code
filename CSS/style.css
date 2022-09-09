@@ -1,0 +1,82 @@
+
+body{
+   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#aebcbf+0,6e7774+33,0a0e0a+68,0a0e0a+68,0a0809+100 */
+background: rgb(174,188,191); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(174,188,191,1) 0%, rgba(110,119,116,1) 33%, rgba(10,14,10,1) 68%, rgba(10,14,10,1) 68%, rgba(10,8,9,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(174,188,191,1) 0%,rgba(110,119,116,1) 33%,rgba(10,14,10,1) 68%,rgba(10,14,10,1) 68%,rgba(10,8,9,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(174,188,191,1) 0%,rgba(110,119,116,1) 33%,rgba(10,14,10,1) 68%,rgba(10,14,10,1) 68%,rgba(10,8,9,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#aebcbf', endColorstr='#0a0809',GradientType=0 ); /* IE6-9 */
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header{
+    text-align: center;
+    font-size: 25px;
+    padding: 0 0 10px 0;
+    margin: 0 0 10px 0;
+    text-shadow: 2px 6px 10px;
+   
+background: rgb(206,220,231); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(206,220,231,1) 0%, rgba(89,106,114,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(206,220,231,1) 0%,rgba(89,106,114,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(206,220,231,1) 0%,rgba(89,106,114,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cedce7', endColorstr='#596a72',GradientType=0 ); /* IE6-9 */
+
+   
+}
+
+
+
+.block{
+
+}
+
+
+.block__row{
+
+
+display:flex;
+flex-wrap:wrap;
+}
+
+
+.block__element{
+
+
+flex: 0 1 50%;
+}
+
+
+.block__element_1{
+
+}
+
+
+.block__element_2{
+
+}
+
+
+.block__element_3{
+
+}
+
+
+.block__element_4{
+
+}
+
+
+.block__content{
+max-width: 718px;
+color: rgb(224, 221, 221);
+    font-size: 20px;
+}
+    .image__botom{
+        text-align: center;
+    }
+    .footer{
+        text-align: center;
+        color: azure;
+        background-color: rgb(105, 105, 98);
+    }
